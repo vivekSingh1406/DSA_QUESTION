@@ -1,4 +1,4 @@
-# DSA :: Topic to prepare
+# DSA-- topic to prepare for interview
 1- Time complexity
 2- Searching
 3- Sorting
@@ -17,19 +17,19 @@
 16- Graphs
 17- Tries
 ===============================================================
-Easy Question[10-15]
-Medium Question[10-15]
-difficult Question[10-15]
-Company Specific Questions
+# Easy Question[10-15]
+# Medium Question[10-15]
+# difficult Question[10-15]
+# Company Specific Questions
 ===============================================================
 # important apporach
 
-# Two-Pointer technique
-# Sliding window
-# Fast and slow pointer
-# Tree Traversal 
-# Depth-first search(DFS)
-# Binary search
-# Dynamic Programming
+# 1- Two-Pointer technique
+# 2- Sliding window
+# 3- Fast and slow pointer
+# 4- Tree Traversal 
+# 5- Depth-first search(DFS)
+# 6- Binary search
+# 7- Dynamic Programming
 
 # Slove 10-15 question from each pattern
