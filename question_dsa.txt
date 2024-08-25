@@ -1,0 +1,49 @@
+----------- Arrays and Strings-------------
+1- Find the maximum sum subarray.
+2- Find all substring that are palindromes
+3- Implement the "two sum" problem
+4- Implement kadane's algoritham for maximum subarray sum.
+5- Find the missing number in an array of integers.
+6- Merge two sorted arrays into one sorted array.
+7- Check if a string is a palindrome.
+8- Find the first non-repeating character in a string.
+9- write a program remove duplicates from a sorted array.
+
+-------------------- Linked Lists ---------------------
+1- Revers a linked list
+2- Delect a cycle in a linked list
+3- Find teh middle of a linked list
+4- Merge two sorted linked lists
+5- Implement a stack using linked list
+6- Find the intersection point of two linked lists
+
+------------------- Stacks and Queues -------------------
+1- Implement a stack using an array
+2- Implement a stack that supports push, pop, top and retrieving the minimun element.
+3- Implement a circular queue.
+4- Design a max stack that supports push, pop, top, retrieve maximum element
+5- Design a queue using stacks.
+
+------------------- Trees and Binary Search Trees --------
+1- Find the height of a binary tree
+2- Find the lowest common ancestor of two nodes in a binary tree
+3- Validate if a binary tree is valid binary search tree
+4- Serialize and deseralize a binary tree
+5- Implement an inorder traversal of a binary tree
+6- Find teh diamater of a binary tree
+7- Convert a binary tree to its mirror tree
+
+----------------------- Graphs -------------------------
+1- Implement depth-first search(DFS)
+2- Implement breadth-first search(BFS)
+3- Find the shortest path brtween tow nodes in an unweighted graph
+4- Detect a cycle in an undirected graph using DFS
+5- Check if a graph is bipartie
+6- Find the number of connected components in an undirected graph
+7- Find bridges in a graph
+
+----------------------- Sorting and Searching ---------------
+1- Implement(Bubble, Insertion, Selection, Merge, Quick) sort
+2- Implement binary search
+3- Implement interpolation search
+4- Find the Kth smallest element in an array
