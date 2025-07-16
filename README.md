@@ -36,3 +36,4 @@
 ### 7- Dynamic Programming
 
 #### Slove 10-15 question from each pattern
+#### DSALink[https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/]
