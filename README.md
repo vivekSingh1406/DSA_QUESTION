@@ -35,6 +35,5 @@
 ### 6- Binary search
 ### 7- Dynamic Programming
 
-#### Slove 10-15 question from each pattern
 [Striver's A2Z DSA](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
