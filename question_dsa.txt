@@ -8,6 +8,18 @@
 7- Check if a string is a palindrome.
 8- Find the first non-repeating character in a string.
 9- write a program remove duplicates from a sorted array.
+10- Find the longest substring without repeating characters
+11- Move all zeros to the end of the array
+12- Longest common prefix in an array of strings
+13- Check if two strings are anagrams
+14- Rotate an array by K positions (left/right)
+15- Find the majority element in an array
+16- Group anagrams from a list of strings
+17- Find the longest palindromic substring
+18- Longest consecutive sequence in an unsorted array
+19- Maximum product subarray
+20- Count and say problem
+
 
 -------------------- Linked Lists ---------------------
 1- Revers a linked list
@@ -16,6 +28,14 @@
 4- Merge two sorted linked lists
 5- Implement a stack using linked list
 6- Find the intersection point of two linked lists
+7- Detect and remove cycle from a linked list
+8- Reverse a linked list in groups of K
+9- Clone a linked list with random pointers
+10- Add two numbers represented by linked lists
+11- Sort a linked list using merge sort
+12- Flatten a multilevel linked list
+13- Check if a linked list is a palindrome
+
 
 ------------------- Stacks and Queues -------------------
 1- Implement a stack using an array
@@ -23,6 +43,14 @@
 3- Implement a circular queue.
 4- Design a max stack that supports push, pop, top, retrieve maximum element
 5- Design a queue using stacks.
+6- Next greater element using stack
+7- Evaluate reverse polish notation (postfix expression)
+8- Implement a queue using two stacks
+9- Sliding window maximum using deque
+10- Check for balanced parentheses
+11- Implement an LRU Cache
+12- Min Stack with O(1) space optimization
+
 
 ------------------- Trees and Binary Search Trees --------
 1- Find the height of a binary tree
@@ -32,6 +60,15 @@
 5- Implement an inorder traversal of a binary tree
 6- Find teh diamater of a binary tree
 7- Convert a binary tree to its mirror tree
+8- Check if two trees are identical
+9- Print the left/right view of a binary tree
+10- Zig-zag level order traversal
+11- Construct a binary tree from inorder and preorder
+12- Convert BST to a doubly linked list
+13- Find kth smallest/largest in BST
+14- Morris Inorder Traversal (O(1) space)
+15- Vertical order traversal of a binary tree
+
 
 ----------------------- Graphs -------------------------
 1- Implement depth-first search(DFS)
@@ -41,9 +78,26 @@
 5- Check if a graph is bipartie
 6- Find the number of connected components in an undirected graph
 7- Find bridges in a graph
+8- Topological sort using DFS / Kahn’s algorithm
+9- Dijkstra’s shortest path (weighted graph)
+10- Prim's and Kruskal’s algorithm (MST)
+11- Detect cycle in a directed graph (DFS or Kahn’s algo)
+12- Bellman-Ford algorithm
+13- Floyd Warshall algorithm
+14- Kosaraju’s algorithm (Strongly Connected Components)
+15- Word Ladder problem (BFS-based)
+
 
 ----------------------- Sorting and Searching ---------------
 1- Implement(Bubble, Insertion, Selection, Merge, Quick) sort
 2- Implement binary search
 3- Implement interpolation search
 4- Find the Kth smallest element in an array
+5- Search in rotated sorted array
+6- Find peak element in an array
+7- Median of two sorted arrays
+8- Count inversions in an array
+9- Find repeating and missing number
+10- Merge overlapping intervals
+11- K closest elements to a given value
+12- Count number of occurrences of a number in sorted array
