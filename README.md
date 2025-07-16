@@ -23,14 +23,14 @@
 =============================================================================
 
 
-# important apporach
+## important apporach
 
-# 1- Two-Pointer technique
-# 2- Sliding window
-# 3- Fast and slow pointer
-# 4- Tree Traversal 
-# 5- Depth-first search(DFS)
-# 6- Binary search
-# 7- Dynamic Programming
+### 1- Two-Pointer technique
+### 2- Sliding window
+### 3- Fast and slow pointer
+### 4- Tree Traversal 
+### 5- Depth-first search(DFS)
+### 6- Binary search
+### 7- Dynamic Programming
 
-# Slove 10-15 question from each pattern
+#### Slove 10-15 question from each pattern
